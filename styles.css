@@ -524,6 +524,17 @@ img {
 .skills__js {
     width: 85%;
 }
+.skills__figma {
+    width: 80%;
+}
+
+.skills__sketch {
+    width: 60%;
+}
+
+.skills__photoshop {
+    width: 85%;
+}
 
 .skills__close .skills__list {
     height: 0;
